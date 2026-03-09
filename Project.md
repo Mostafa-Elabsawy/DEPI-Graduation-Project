@@ -7,22 +7,14 @@
 - **User Authentication**: Secure sign-up, login, and profile management.
 - **Product Catalog**: Browse, search, and filter products by categories, brands, and price.
 - **Shopping Cart**: Add, update, or remove products in the cart.
-- **Checkout System**: Secure checkout with multiple payment options.
-- **Order Tracking**: Track order status and history.
+- **Checkout System**: Secure checkout with payment.
 - **Admin Panel**: Manage products, categories, and user orders.
 - **Responsive Design**: Fully responsive across desktop, tablet, and mobile devices.
-- **Wishlist & Reviews**: Users can save favorites and write product reviews.
-
 ## Tech Stack
-- **Frontend**: HTML, CSS, JavaScript (or React.js / Angular)
-- **Backend**: Node.js / Django / PHP (choose your preferred stack)
-- **Database**: MySQL / MongoDB
-- **Hosting**: Vercel / Netlify / Heroku
-
-## Team Members
-- Mostafa Ehab
-- [Member 2 Name]
-- [Member 3 Name]
+- **Frontend**: HTML, CSS, TypeScript, Tailwindcss, Angular
+- **Backend**: C#, ASP.NET Core Web API
+- **Database**: Microsoft SQL Server
+- **Hosting**: ----------
 
 ## Goals
 - Create a fully functional e-commerce website with smooth user experience.
